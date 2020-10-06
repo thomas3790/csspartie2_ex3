@@ -1,0 +1,14 @@
+table {
+    border: thin solid #000000;
+}
+td {
+    border: thin solid #000000;
+    text-align: left;
+}
+th {
+    text-align: center;
+    border: thin solid #000000;
+}
+caption {
+    font-weight: bold;
+}
